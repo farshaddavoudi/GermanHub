@@ -13,6 +13,14 @@ This is a project focused on creating German language resources through Anki fla
     - Menschen A1.1 book
 2. **A2 Level**
 
+## Tags
+To help users navigate and differentiate the Anki flashcards in the deck and have custom study, the following tags are used:
+- `german-A1-level`: Flashcards for vocabulary and grammar suitable for A1-level learners.
+- `german-A2-level`: Flashcards for vocabulary and grammar suitable for A2-level learners.
+- `german-top-100-verbs`: Tag for the flashcards covering the 100 most essential German verbs.
+- `german-menschen-a1.1`, `german-menschen-a1.2`, etc.: Tags for vocabulary and grammar derived from specific textbooks or resources.
+- Additional tags will be added as the repository expands and includes more topics and levels.
+
 ## How to Use
 #### Only Want to Use:
 Easily import the deck using `.apkg` file provided in the repo. Alternatively, the `CrowdAnki` add-on can be installed and import the deck directly using the repo URL.
