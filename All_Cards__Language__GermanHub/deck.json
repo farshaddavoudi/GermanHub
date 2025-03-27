@@ -1,0 +1,343 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cd8e59bb-0aff-11f0-845e-001a7dda7110",
+            "deck_config_uuid": "cd8e59bc-0aff-11f0-aa60-001a7dda7110",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_cascadiaCode.ttf"
+            ],
+            "name": "Grammer",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "test gramme",
+                        "Grammer is easy"
+                    ],
+                    "guid": "dpt;b`<6|=",
+                    "note_model_uuid": "cd8e80f0-0aff-11f0-ae98-001a7dda7110",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cd8e80f3-0aff-11f0-bb00-001a7dda7110",
+            "deck_config_uuid": "cd8e80f4-0aff-11f0-ab37-001a7dda7110",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_cascadiaCode.ttf"
+            ],
+            "name": "Vocabs",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vocab test",
+                        "Vocab is fine"
+                    ],
+                    "guid": "C;p13Oju$.",
+                    "note_model_uuid": "cd8e80f0-0aff-11f0-ae98-001a7dda7110",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "cd8de3d6-0aff-11f0-8ab7-001a7dda7110",
+    "deck_config_uuid": "cd8e31e4-0aff-11f0-a94b-001a7dda7110",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": false,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "cd8e31e4-0aff-11f0-a94b-001a7dda7110",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": false,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": false,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "cd8e59bc-0aff-11f0-aa60-001a7dda7110",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": false,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": false,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "cd8e80f4-0aff-11f0-ab37-001a7dda7110",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": false,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "_cascadiaCode.ttf"
+    ],
+    "name": "All Cards::Language::GermanHub",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "cd8e80f0-0aff-11f0-ae98-001a7dda7110",
+            "css": ".card {\n font-family: Segoe UI, Verdana;\n font-size: 22px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.tags {\nfont-size: 12px;\nfont-family: tahoma;\ncolor: dimgray;\nmargin-top: 10px\n}\n\n@font-face {\n  font-family: myfont;\n  src: url(\"_cascadiaCode.ttf\");\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Calibri",
+                    "id": null,
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 23,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Calibri",
+                    "id": null,
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 22,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "DevNote",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n<div class=\"tags\" style=\"font-family: 'Cascadia Code', myfont, sans-serif\">\n{{Tags}}\n</div>"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
