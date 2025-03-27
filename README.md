@@ -1,4 +1,4 @@
-# German Language Learning
+# German Language Learning Hub
 
 ## Overview
 This is a project focused on creating German language resources through Anki flashcards, starting from scratch and following a step-by-step roadmap for gradual learning. The aim is to develop an accessible and systematic way for learners to master German vocabulary and grammar from scratch.
