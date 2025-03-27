@@ -10,7 +10,7 @@ This is a project focused on creating German language resources through Anki fla
 ## Roadmap
 1. **A1 Level**
     - [Top 100 German Verbs](https://ankiweb.net/shared/info/609348355): 100 most common German Verbs that someone learning the language should know
-    - Menschen books
+    - Menschen A1.1 book
 2. **A2 Level**
 
 ## How to Use
