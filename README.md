@@ -14,11 +14,17 @@ This is a project focused on creating German language resources through Anki fla
 2. **A2 Level**
 
 ## How to Use
+#### Only Want to Use
+Easily import the deck using `.apkg` file provided in the repo. Alternatively, the `CrowdAnki` add-on can be installed and import the deck directly using the repo URL.
 
-## Collaboration
+#### Want to Collaborate
 This project thrives on community participation! If you're interested in contributing:
-  - Fork the repository ....
-  - Second step
+  - Fork the repository
+  - Install the [`CrowdAnki`](https://github.com/Stvad/CrowdAnki) add-on (if it's not)
+  - Makes some modifications
+  - The export the deck in JSON in the repo directory
+  - Push the changes to the repo
+  - More info can be found [here](https://github.com/Stvad/CrowdAnki?tab=readme-ov-file#generic-collaboration-workflow)
 
 ## License
 This project is open-source and licensed under _MIT Lincense_.
